@@ -1,4 +1,4 @@
-print("Programa de loja chico tripa\n")
+print("Programa de loja\n")
 print("Produtos com código\n 0 a 25 com 10% \n 26 a 50 com 12,5% \n 51 a 100 15%")
 
 
